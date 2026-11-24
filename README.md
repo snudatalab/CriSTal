@@ -1,7 +1,8 @@
 # CriSTal
 
-This is the official implementation of **CriSTal** (*Conditional Spatial Evidence
-Retrieval for spatio-temporal traffic forecasting*) (KDD 2027).
+This is the official implementation of "**CriSTal: Conditional Spatial Evidence Retrieval for spatio-temporal traffic forecasting**" (KDD 2027).
+
+This repository is the official implementation of "TiRano: Tensorized Relation-aware Temporal Reasoning for Accurate Knowledge Graph Completion" (KDD 2026).
 
 ## Overview of CriSTal
 
