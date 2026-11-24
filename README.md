@@ -1,7 +1,7 @@
 # CriSTal
 
 This is the official implementation of **CriSTal** (*Conditional Spatial Evidence
-Retrieval for spatio-temporal traffic forecasting*).
+Retrieval for spatio-temporal traffic forecasting*) (KDD 2027).
 
 ## Overview of CriSTal
 
@@ -150,3 +150,13 @@ cristal/
   metrics.py     MAE / RMSE / MAPE
   train.py       training and evaluation
 ```
+## Reference
+
+If you use this code, please cite the following paper.
+```bibtex
+@inproceedings{lee2027cristal,
+  title={CriSTal: Conditional Spatial Evidence Retrieval for Accurate Spatio-Temporal Forecasting},
+  author={Lee, SeungJoo and Park, Yong-chan and Lee, Jeongyoung and Kang, U},
+  booktitle={Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1},
+  year={2027}
+}
